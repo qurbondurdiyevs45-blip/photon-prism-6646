@@ -1,0 +1,15 @@
+{
+  "name": "photon-prism-6646",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4133,
+    "createdAt": "2026-09-11T12:47:36.489Z"
+  }
+}
